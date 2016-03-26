@@ -1,0 +1,6 @@
+lesson2_reflections
+blah
+
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+ - staging area is temp space where files are stored before commit; 
