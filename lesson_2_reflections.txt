@@ -3,4 +3,7 @@ blah
 
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
- - staging area is temp space where files are stored before commit; 
+ - staging area is temp space where files are stored before commit;
+
+How can you use the staging area to make sure you have one commit per logical change?
+ - by using diff to compare staging area with the working dir; use git add to only add what you want to staging area
